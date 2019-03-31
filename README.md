@@ -1,2 +1,0 @@
-# CLNT asd
-asd
