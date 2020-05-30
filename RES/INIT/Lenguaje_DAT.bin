@@ -221,7 +221,46 @@ Salmón
 Bloque de Marfil
 Medalla de Plata
 Medalla de Bronce
-Poción Verde
+Curar Veneno
+Destello Mágico
+Curar Heridas Graves
+Envenenar
+Curar Heridas Mortales
+Flecha Mágica
+Paralizar
+Fuego Mágico
+Inmovilizar
+Remover Parálisis
+Resucitar
+Manto de Hierro
+Regeneración Clerical
+Invisibilidad
+Tormenta de Fuego
+Viento Huracanado
+Insurrección Sombría
+Celeridad
+Torpeza
+Fuerza
+Debilidad
+Ráfaga Ardiente
+Descarga Eléctrica
+Prisión Gélida
+Apocalípsis
+Elemental de Fuego
+Elemental de Agua
+Relámpago
+Teletransportar Kahlimdor
+Remover Invisibilidad
+Teletransportar Anvilmar
+Llama de Dragón
+Infierno
+Mimetismo
+Fuego Divino
+Maldición
+Grito de Guerra
+Burbuja Defensiva
+Ira de Fuego
+'%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% HECHIZOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Nihil Ved
 Te has curado del envenenamiento.
 te ha curado del envenenamiento.
@@ -468,6 +507,7 @@ lanzó Tormenta de Fuego sobre vos.
 Has lanzado Tormenta de Fuego sobre
 Causa 30 a 45 puntos de daño
 Tormenta de Fuego de Elemental
+'%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NPCS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Murcielago
 Cobra
 Cobra
@@ -506,6 +546,17 @@ Korgan
 Aventurero ¿Estas preparado?
 Padre Valyst
 Hola hijo mío, soy el Sacerdote de este pueblo.
+NPC 5
+Desc 5
+Snape
+Vendo algunos de los hechizos más poderosos de estas tierras
+WillyMagia
+Vendo hechis
+hechizero 3
+Como no alcanzaron 2 npcs, aca estoy yo para los restantes
+NPC 9
+Desc 9
+'%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% QUESTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Asesina los usuarios que te pida y tendre una recompensa para ti.#
 Asesino Relampago
 Asesina los usuarios que te pida y tendre una recompensa para ti.#
@@ -554,6 +605,7 @@ Destruye los barcos fantasmas que vagan a la deriba por estos mares.#
 Barcos sin tripulacion.
 Derrota a los poderosos golems hechos de plata.#
 Guerrero Medieval
+'%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CANJES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Daga de Hielo
 Daga que utilizaban los antiguos asesinos de estas tierras.
 Daga Envenenada
@@ -566,3 +618,25 @@ Daga Envenenada5
 Daga empapada de veneno5. Quien la posea podrá apuñalar y envenenar a su victima.
 Daga Envenenada6
 Daga empapada de veneno6. Quien la posea podrá apuñalar y envenenar a su victima.
+'%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NOMBRE DECORS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Portal
+Arbol
+Arbol
+Arbol
+Yacimiento de Hierro
+Yacimiento de Hierro
+Yacimiento de Hierro
+Yacimiento de Plata
+Yacimiento de Plata
+Yacimiento de Plata
+Yacimiento de Oro
+Yacimiento ed Oro
+Yacimiento de Oro
+Puerta
+Puerta
+Puerta
+Puerta
+Fragua
+Yunque
+Telar
+Taller
