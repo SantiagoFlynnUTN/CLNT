@@ -1,0 +1,13 @@
+git status			muestra estado de los archivos stageados
+git add .			para subir todos los archivos proximos a commitear
+git commit -am "push"		para commitear los cambios (tambien hace add a los archivos modificados, unicamente)
+git pull			actualiza el proyecto en la branch q se ejecuta el git pull
+git push			sube los commits al repo remoto en la branch que ejecuta el comando
+
+
+git checkout -b nuevaBranch 	crea nuevaBranch (ejecutar siempre este comando a partir de develop, al menos q queramos probar cosas con otra branch)
+git checkout <branch>		para ir a develop, por ejemplo, git checkout develop.
+git branch -d <branch>		para borrar un branch
+git branch 			muestra lista de branchs
+
+git checkout . 			descarta todos los cambios del branch (esto es para q nos deje pullear cuando modificamos cosas q no queremos subir)
