@@ -357,10 +357,6 @@ Casco pesado pt1
 Gorro Druida pt2
 Casco liviano pt2
 Sombrero pt2
-Casco pesado pt2
-Anillo +3 Agite
-Anillo +2 Agite
-Anillo +1 Agite
 '%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% HECHIZOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Nihil Ved
 Te has curado del envenenamiento.
@@ -648,6 +644,7 @@ Lobo
 Quimera
 Troll
 Oso Pardo
+Mini Escarabajo
 Doroteo
 Hola, bienvenido a la cadena de finanzas Goliath.
 Argal
@@ -666,6 +663,24 @@ hechizero 3
 Como no alcanzaron 2 npcs, aca estoy yo para los restantes
 NPC 9
 Desc 9
+Guerre
+items guerre
+Caza
+items caza
+Paladin
+items pala
+Asesino
+items ase
+Clerigo
+items clérigo
+Bardo
+items bardo
+Druida
+items druida
+Mago
+items mago
+Varios
+Items varios
 '%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% QUESTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Asesina los usuarios que te pida y tendre una recompensa para ti.#
 Asesino Relampago
